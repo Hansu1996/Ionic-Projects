@@ -1,0 +1,7 @@
+{
+  "name": "FilmFeed",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
